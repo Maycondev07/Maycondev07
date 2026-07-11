@@ -48,7 +48,7 @@
 
 # 📊 GitHub Stats
 
-[![Maycondev07 GitHub stats](https://github-stats-extended.vercel.app/api?username=Maycondev07&cache=1)](https://github.com/stats-organization/github-stats-extended)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Maycondev07&langs_count=4&theme=dark)](https://github-stats-extended.vercel.app/api/top-langs?username=Maycondev07&langs_count=4&theme=dark)
 
 ---
 
