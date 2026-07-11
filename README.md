@@ -48,7 +48,7 @@
 
 # 📊 GitHub Stats
 
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/apiMaycondev07=anuraghazra)](https://github.com/stats-organization/github-stats-extended)
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/apiMaycondev07anuraghazra)](https://github.com/stats-organization/github-stats-extended)
 
 ---
 
