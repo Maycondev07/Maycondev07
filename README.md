@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Maycon
+# 👋 Olá, eu sou Maycon
 
 ---
 
@@ -48,9 +48,9 @@
 
 # 📊 GitHub Stats
 
-![Maycon GitHub stats](https://github-readme-stats.vercel.app/api?username=Maycondev07&show_icons=true&theme=tokyonight&locale=pt-br)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maycondev07&layout=compact&theme=tokyonight&locale=pt-br)
+![Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
+![Pinned](./profile/pin-stats-organization-github-readme-stats.svg)
 
 ---
 
