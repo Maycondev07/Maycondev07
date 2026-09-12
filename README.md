@@ -26,6 +26,10 @@ Tecnólogo em Análise e Desenvolvimento de Sistemas 🐍 Python | 🤖 Automaç
 **Banco de Dados**
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
+**Deploy**
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![GitHub Pages](https://img.shields.io/badge/-GitHub_Pages-222222?style=flat-square&logo=github&logoColor=white)
+
 **IA & Automação**
 ![Claude](https://img.shields.io/badge/-Claude_Code-D97757?style=flat-square&logo=claude&logoColor=white)
 GPT Agents · AI Reports com Excel · Prompt Engineering
@@ -34,11 +38,14 @@ GPT Agents · AI Reports com Excel · Prompt Engineering
 
 ### 📌 Projetos em Destaque
 
-- 🎰 **[AmazoniaForce](#)** — Demonstração de site de E-commerce
-- 🍎 **[Calculadora Nutricional](#)** — calculadora de valores nutricionais
-- 👻 **[Ghastly Animation](#)** — animação em HTML/CSS/JavaScript
+| Projeto | Descrição | Stack |
+|---|---|---|
+| 🚗 **[Dashboard Porsche](https://maycondev07.github.io/Projeto-Dashboard-Porsche/)** — [código](https://github.com/Maycondev07/Projeto-Dashboard-Porsche) | Painel de BI com KPIs, filtros e gráficos interativos de vendas, construído com apoio de Agentes de IA | HTML · CSS · JS · IA |
+| 📸 **[Photo Book Creator](https://photobook-mu.vercel.app/)** — [código](https://github.com/Maycondev07/Photo-Book-Creator) | Álbum de memórias digital e colaborativo, com compartilhamento por código e plano Premium via Stripe | HTML · CSS · JS · Stripe |
+| 🛒 **[Amazônia Force](https://amazonia-force.vercel.app/)** — [código](https://github.com/Maycondev07/AmazoniaForce) | E-commerce completo de materiais de construção, com catálogo, carrinho e conta de usuário | HTML · CSS · JS |
+| 🗂️ **[Sistema de Cadastro de Clientes](https://github.com/Maycondev07/Sistema-de-Cadastro-de-Clientes)** | Aplicação em Python (terminal) para cadastro e consulta de clientes com banco de dados | Python · SQLite |
 
-📁 Portfólio completo: [maycondev07.github.io/Portfolio](https://maycondev07.github.io/Portfolio/index.html)
+📁 Portfólio completo (11 projetos): [maycondev07.github.io/Portfolio](https://maycondev07.github.io/Portfolio/index.html)
 
 ---
 
