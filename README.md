@@ -34,7 +34,7 @@ GPT Agents · AI Reports com Excel · Prompt Engineering
 
 ### 📌 Projetos em Destaque
 
-- 🎰 **[Cassino em Python](#)** — jogo de cassino com lógica de programação em Python
+- 🎰 **[AmazoniaForce](#)** — Demonstração de site de E-commerce
 - 🍎 **[Calculadora Nutricional](#)** — calculadora de valores nutricionais
 - 👻 **[Ghastly Animation](#)** — animação em HTML/CSS/JavaScript
 
