@@ -53,7 +53,7 @@ GPT Agents · AI Reports com Excel · Prompt Engineering
 
 - **Tecnólogo em Análise e Desenvolvimento de Sistemas** — UNICID (em andamento)
 - **Formação GitHub Certification** — DIO (bootcamp, 10h) — Git, Administração do GitHub, GitHub Copilot, Codespaces, Colaboração, Markdown e mais
-- **Curso de Python** — Santander Open Academy (8h)
+- **Formação Python Fundamentals** — DIO (bootcamp, 26h)
 - **Aceleração: AI Reports com Excel, GPT Agents e Claude Code** — DIO / Santander
 - 30+ cursos e projetos práticos concluídos na DIO (Git, GitHub, Python, IA generativa)
 
