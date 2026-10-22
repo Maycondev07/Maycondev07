@@ -52,13 +52,6 @@ Todos escritos por mim, em Python.
 
 ---
 
-### 💼 Experiência
-
-- **Gestor de Tráfego Digital** — Ex Consig (03/2026 – 08/2026): administração de Business Managers da Meta, padronização de processos de tráfego pago e rotina de controle com Notion, Google Keep e Excel.
-- **Analista de Crédito** — Cobtec (01/2024 – 09/2025): atendimento, correção de divergências cadastrais e análise de propostas, com aprovação de cerca de 60% das propostas de cadastro e contribuição para um aumento de 10% no volume de análises.
-
----
-
 ### 🎓 Formação & Certificações
 
 - **Tecnólogo em Análise e Desenvolvimento de Sistemas** — UNICID (01/2026 – 12/2027, em andamento)
