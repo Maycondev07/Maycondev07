@@ -59,7 +59,29 @@ Estou organizando meus exercícios e anotações de segurança em laboratórios 
 
 ---
 
-### 💻 Projetos de desenvolvimento
+### 🛡️ Projeto em destaque
+
+#### [Linux Security Monitor](https://github.com/Maycondev07/Linux-Security-Monitor)
+
+Ferramenta desenvolvida em **Python** para analisar registros de autenticação do **Ubuntu Server** e organizar eventos relevantes de segurança em um relatório.
+
+**O que o projeto faz:**
+- Analisa o arquivo `/var/log/auth.log`.
+- Identifica tentativas de autenticação SSH bem-sucedidas e malsucedidas.
+- Extrai informações como usuário, endereço IP, porta de origem e protocolo.
+- Identifica eventos de falha de autenticação local e sessões relacionadas ao sudo.
+- Conta autenticações SSH bem-sucedidas por endereço IP.
+- Gera um relatório em arquivo de texto.
+
+**Tecnologias:** Python · Linux · Ubuntu Server · SSH · Análise de logs
+
+**Objetivo:** praticar automação com Python e desenvolver fundamentos de monitoramento e análise de eventos de segurança em sistemas Linux.
+
+[![Acessar repositório](https://img.shields.io/badge/GitHub-Ver%20projeto-181717?style=for-the-badge&logo=github)](https://github.com/Maycondev07/Linux-Security-Monitor)
+
+---
+
+### 💻 Outros projetos de desenvolvimento
 
 Meus projetos de programação demonstram a base técnica que continuo desenvolvendo e aplicando nos estudos de segurança.
 
