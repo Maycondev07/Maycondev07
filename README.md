@@ -97,6 +97,12 @@ Meus projetos de programação demonstram a base técnica que continuo desenvolv
 
 - **Análise e Desenvolvimento de Sistemas** — UNICID (2026–2027, em andamento)
 - **Técnico em Administração** — ETEC Cidade Tiradentes (concluído em 2025)
+
+**Cursos em andamento**
+- **Certificado Profissional de Segurança Cibernética do Google** — Google / Coursera
+- **CS50's Introduction to Computer Science** — HarvardX / edX
+
+**Cursos concluídos**
 - **Formação GitHub Certification** — DIO
 - **Python Fundamentals** — DIO
 - **AI Reports com Excel, GPT Agents e Claude Code** — DIO / Santander
